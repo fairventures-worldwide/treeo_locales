@@ -1,0 +1,148 @@
+{
+  "languageSelection": {
+    "language": "Language",
+    "english": "English",
+    "bahasa": "Bahasa Indonesia"
+  },
+  "page": {
+    "toolbarTitle": {
+      "settings": "Settings",
+      "profile": "Profile",
+      "dashboard": "TREEO",
+      "survey": "Survey",
+      "plot": "Plot",
+      "plots": "TREEO",
+      "addTree": "",
+      "trees": "Trees",
+      "tree": "Tree Detail",
+      "forgotPassword": "Forgot Password",
+      "registerFarmer": "Create Account",
+      "addPlot": "TREEO",
+      "files": "Files"
+    },
+    "settings": {
+      "subheader": {
+        "dialog": "Dialog",
+        "version": "Version"
+      },
+      "button": {
+        "reset": "Reset APP"
+      },
+      "label": {
+        "hideMeasuredDialog": "Hide tree measured Dialog"
+      }
+    },
+    "addTree": {
+      "button": {
+        "measureTree": "Measure tree"
+      }
+    },
+    "statistics": {
+      "volume": "Volume",
+      "treesCount": "Trees",
+      "value": "Value"
+    },
+    "plot": {
+      "labels": {
+        "name": "Name",
+        "plantingDate": "Planting Date",
+        "species": "Species",
+        "treeCount": "Trees",
+        "notSet": "not set"
+      },
+      "button": {
+        "confirmDatePicker" : "Ok"
+      }
+    },
+    "survey": {
+      "labels": {
+        "startDate": "Start",
+        "endDate": "End"
+      }
+    }
+  },
+  "dialog": {
+    "datePicker": {
+      "agree": "OK"
+    },
+    "logout": {
+      "title": "Logout",
+      "text": "Do you realy want to logout?",
+      "disagree": "close",
+      "agree": "ok"
+    },
+    "measuredSuccess": {
+      "title": "Success!",
+      "errorTitle": "Error!",
+      "text": "Do you realy want to logout?",
+      "hideMeasuredDialog": "Hide tree measured Dialog",
+      "disagree": "repeat",
+      "agree": "Next Tree"
+    },
+    "quitSurvey": {
+      "title": "Quit Survey",
+      "text": "",
+      "disagree": "continue later",
+      "agree": "end survey now"
+    },
+    "errorMsg": {
+      "title": "Error",
+      "agree": "repeat"
+    },
+    "deleteTree": {
+      "title": "Delete Tree",
+      "text": "Do you realy want to delete the Tree",
+      "disagree": "close",
+      "agree": "delete"
+    },
+    "gps": {
+      "error": "No GPS found. Please switch on GPS and wait for connection."
+    }
+  },
+  "authentication": {
+    "button": {
+      "login": "Login",
+      "logout": "Logout",
+      "clear": "Clear",
+      "request_password": "Request Password",
+      "registerFarmer": "Create Account"
+    },
+    "placeholder": {
+      "name": "Name",
+      "username": "E-Mail",
+      "password": "Password",
+      "birthday": "Birthday",
+      "gender": "Gender"
+    },
+    "link": {
+      "registration": "Registration",
+      "forgot_password": "Forgot Password",
+      "register_farmer": "Create Account"
+    },
+    "error": {
+      "requiredName": "Name is required.",
+        "requiredUsername": "E-Mail is required.",
+        "requiredPassword": "Password is required.",
+        "notEmail": "Is not an e-mail."
+    },
+    "text": {
+      "forgot_password": "Send me a Password.",
+      "password_sent": "a new password has been sent to your email address",
+      "request_new_password": "send email again"
+    }
+  },
+  "button": {
+    "addTree": "Add Tree",
+    "entryDetail": "Detail",
+    "startSurvey": "Start",
+    "endSurvey": "End"
+  },
+  "label": {
+    "ongoing": "ongoing",
+    "diameter": "Diameter",
+    "accuracy": "Accuracy",
+    "height": "Height",
+    "noDataFound": "No Data Found",
+    "loading": "Loading data..."
+  }
+}

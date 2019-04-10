@@ -1,0 +1,141 @@
+{
+  "languageSelection": {
+    "language": "bahasa",
+    "english": "bahasa inggris",
+    "bahasa": "bahasa indonesia"
+  },
+  "page": {
+    "toolbarTitle": {
+      "settings": "pengaturan",
+      "profile": "profil",
+      "dashboard": "papan pengawas",
+      "survey": "penelitian",
+      "plot": "bidang tanah",
+      "plots": "banyak bidang tanah",
+      "addTree": "menambahkan pohon",
+      "trees": "pepohonan",
+      "tree": "pohon",
+      "forgotPassword": "lupa kata sandi",
+      "registerFarmer": "membuat akun baru",
+      "addPlot": "menambahkan bidang tanah",
+      "files": "arsip"
+    },
+    "settings": {
+      "subheader": {
+        "dialog": "percakapan",
+        "version": "versi"
+      },
+      "button": {
+        "reset": "mengatur ulang"
+      },
+      "label": {
+        "hideMeasuredDialog": "menyembunyikan percakapan yang terukur"
+      }
+    },
+    "addTree": {
+      "button": {
+        "measureTree": "mengukur pohon"
+      }
+    },
+    "statistics": {
+      "volume": "volume",
+      "treesCount": "jumlah pepohonan",
+      "value": "nilai"
+    },
+    "plot": {
+      "labels": {
+        "name": "nama",
+        "plantingDate": "tanggal penanaman",
+        "species": "spesies",
+        "treeCount": "jumlah pohon",
+        "notSet": "tidak diatur"
+      },
+      "button": {
+        "confirmDatePicker" : "memastikan pemilih tanggal"
+      }
+    },
+    "survey": {
+      "labels": {
+        "startDate": "tanggal mulai",
+        "endDate": "tanggal selesai"
+      }
+    }
+  },
+  "dialog": {
+    "datePicker": {
+      "agree": "setuju"
+    },
+    "logout": {
+      "title": "judul",
+      "text": "teks",
+      "disagree": "tidak setuju",
+      "agree": "setuju"
+    },
+    "measuredSuccess": {
+      "title": "judul",
+      "errorTitle": "Error!",
+      "text": "teks",
+      "hideMeasuredDialog": "menyembunyikan percakapan yang terukur",
+      "disagree": "tidak setuju",
+      "agree": "setuju"
+    },
+    "quitSurvey": {
+      "title": "judul",
+      "text": "teks",
+      "disagree": "tidak setuju",
+      "agree": "setuju"
+    },
+    "errorMsg": {
+      "title": "Error",
+      "agree": "repeat"
+    },
+    "deleteTree": {
+      "title": "judul",
+      "text": "teks",
+      "disagree": "tidak setuju",
+      "agree": "setuju"
+    },
+    "gps": {
+      "error": "GPS tidak ditemukan. Mohon aktifkan GPS dan tunggu hingga terhubung."
+    }
+  },
+  "authentication": {
+    "button": {
+      "login": "masuk",
+      "logout": "keluar",
+      "clear": "jelas",
+      "request_password": "meminta kata sandi",
+      "registerFarmer": "membuat akun baru"
+    },
+    "placeholder": {
+      "username": "nama pengguna",
+      "password": "kata sandi"
+    },
+    "link": {
+      "registration": "pendaftaran",
+      "forgot_password": "lupa kata sandi",
+      "register_farmer": "membuat akun baru"
+    },
+    "error": {
+        "requiredUsername": "nama pengguna yang dibutuhkan.",
+        "requiredPassword": "kata sandi yang dibutuhkan.",
+        "notEmail": "bukan sebuah E-mail."
+    },
+    "text": {
+      "forgot_password": "lupa kata sandi.",
+      "password_sent": "kata sandi terkirim",
+      "request_new_password": "meminta kata sandi baru"
+    }
+  },
+  "button": {
+    "addTree": "menambahkan pohon",
+    "entryDetail": "memasukkan rincian",
+    "startSurvey": "memulai penelitian",
+    "endSurvey": "mengakhiri penelitian"
+  },
+  "label": {
+    "ongoing": "sedang berlangsung",
+    "diameter": "diameter",
+    "accuracy": "ketepatan"
+  }
+}
