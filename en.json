@@ -54,6 +54,12 @@
         "confirmDatePicker" : "Ok"
       }
     },
+    "plotAdd": {
+      "title": "Create new Plot",
+    },
+    "plotSelect": {
+      "title": "Start Tree Inventory"
+    },
     "survey": {
       "labels": {
         "startDate": "Start",
@@ -121,9 +127,9 @@
     },
     "error": {
       "requiredName": "Name is required.",
-        "requiredUsername": "E-Mail is required.",
-        "requiredPassword": "Password is required.",
-        "notEmail": "Is not an e-mail."
+      "requiredUsername": "E-Mail is required.",
+      "requiredPassword": "Password is required.",
+      "notEmail": "Is not an e-mail."
     },
     "text": {
       "forgot_password": "Send me a Password.",
@@ -143,6 +149,7 @@
     "accuracy": "Accuracy",
     "height": "Height",
     "noDataFound": "No Data Found",
-    "loading": "Loading data..."
+    "loading": "Loading data...",
+    "created": "created"
   }
 }

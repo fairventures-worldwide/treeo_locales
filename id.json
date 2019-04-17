@@ -54,6 +54,12 @@
         "confirmDatePicker" : "memastikan pemilih tanggal"
       }
     },
+    "plotAdd": {
+      "title": "Create new Plot",
+    },
+    "plotSelect": {
+      "title": "Start Tree Inventory"
+    },
     "survey": {
       "labels": {
         "startDate": "tanggal mulai",
@@ -108,8 +114,11 @@
       "registerFarmer": "membuat akun baru"
     },
     "placeholder": {
+      "name": "nama",
       "username": "nama pengguna",
-      "password": "kata sandi"
+      "password": "kata sandi",
+      "birthday": "Birthday",
+      "gender": "Gender"
     },
     "link": {
       "registration": "pendaftaran",
@@ -117,9 +126,10 @@
       "register_farmer": "membuat akun baru"
     },
     "error": {
-        "requiredUsername": "nama pengguna yang dibutuhkan.",
-        "requiredPassword": "kata sandi yang dibutuhkan.",
-        "notEmail": "bukan sebuah E-mail."
+      "requiredName": "Name is required.",
+      "requiredUsername": "nama pengguna yang dibutuhkan.",
+      "requiredPassword": "kata sandi yang dibutuhkan.",
+      "notEmail": "bukan sebuah E-mail."
     },
     "text": {
       "forgot_password": "lupa kata sandi.",
@@ -136,6 +146,10 @@
   "label": {
     "ongoing": "sedang berlangsung",
     "diameter": "diameter",
-    "accuracy": "ketepatan"
+    "accuracy": "ketepatan",
+    "height": "Height",
+    "noDataFound": "No Data Found",
+    "loading": "Loading data...",
+    "created": "created"
   }
 }
