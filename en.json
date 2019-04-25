@@ -29,7 +29,8 @@
         "reset": "Reset APP"
       },
       "label": {
-        "hideMeasuredDialog": "Hide tree measured Dialog"
+        "hideMeasuredDialog": "Hide tree measured Dialog",
+        "synchMobile": "Allow synching pictures with mobile data"
       }
     },
     "addTree": {
@@ -151,5 +152,9 @@
     "noDataFound": "No Data Found",
     "loading": "Loading data...",
     "created": "created"
+  },
+  "msg": {
+    "noWifi": "No wifi: cannot synch images.",
+    "offline": "You are currently offline."
   }
 }

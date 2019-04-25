@@ -1,4 +1,4 @@
-{
+ee  {
   "languageSelection": {
     "language": "bahasa",
     "english": "bahasa inggris",
@@ -29,7 +29,8 @@
         "reset": "mengatur ulang"
       },
       "label": {
-        "hideMeasuredDialog": "menyembunyikan percakapan yang terukur"
+        "hideMeasuredDialog": "menyembunyikan percakapan yang terukur",
+        "synchMobile": "Allow synching pictures with mobile data"
       }
     },
     "addTree": {
@@ -151,5 +152,9 @@
     "noDataFound": "No Data Found",
     "loading": "Loading data...",
     "created": "created"
+  },
+  "msg": {
+    "noWifi": "No wifi: cannot synch images.",
+    "offline": "You are currently offline."
   }
 }
