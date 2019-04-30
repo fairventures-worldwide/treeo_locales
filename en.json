@@ -69,6 +69,10 @@
     }
   },
   "dialog": {
+    "adminDialog": {
+      "title": "Enter Admin-Pin",
+      "agree": "OK"
+    },
     "datePicker": {
       "agree": "OK"
     },
