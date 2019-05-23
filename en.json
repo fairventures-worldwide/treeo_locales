@@ -41,7 +41,7 @@
     "statistics": {
       "volume": "Volume",
       "treesCount": "Trees",
-      "value": "Value"
+      "value": "Value estimation (IDR)"
     },
     "plot": {
       "labels": {
